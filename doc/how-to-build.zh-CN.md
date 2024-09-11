@@ -16,6 +16,7 @@
 
    # install keystone
    $ sudo apt-get install cmake
+   $ sudo apt-get install build-essential
    $ git clone https://github.com/keystone-engine/keystone.git
    $ cd keystone
    $ mkdir build
